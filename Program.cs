@@ -9,6 +9,11 @@
             husky.Run();
             husky.Sound();
 
+            Person person = new Person("Uesli", "Laska", 20);
+            person.DisplayInfo();
+
+            Employee emp = new Employee("Bruno", "Laska", 13, "Manager", 5000);
+            emp.DisplayEmployee();
 
             Console.ReadKey();
         }
@@ -32,8 +37,10 @@
 
     public class Dog : Animal//Dog Inherits From Animal
     {
+       
         public override void Sound()//Overides from the inherited Class Anima virtual method Sound()
         {
+            base.Sound();//Calls the First Animal Build Method from Base Class than Dog Barks from derived class
             Console.WriteLine("Dog Barks..");
         }
     }

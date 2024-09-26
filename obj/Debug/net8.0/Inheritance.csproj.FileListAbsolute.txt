@@ -7,6 +7,7 @@ C:\Users\User\source\repos\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.
 C:\Users\User\source\repos\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfoInputs.cache
 C:\Users\User\source\repos\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfo.cs
 C:\Users\User\source\repos\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.sourcelink.json
 C:\Users\User\source\repos\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.dll
 C:\Users\User\source\repos\Inheritance\Inheritance\obj\Debug\net8.0\refint\Inheritance.dll
 C:\Users\User\source\repos\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.pdb
