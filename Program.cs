@@ -15,6 +15,8 @@
             Employee emp = new Employee("Bruno", "Laska", 13, "Manager", 5000);
             emp.DisplayEmployee();
 
+            Manager manager = new Manager("Grejs", "Laska", 24, 12);
+            manager.DisplayManager();
             Console.ReadKey();
         }
     }

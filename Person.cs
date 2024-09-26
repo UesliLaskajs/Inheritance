@@ -40,4 +40,18 @@ namespace Inheritance
         }
 
     }
+
+    public class Manager : Person
+    {
+        public int EmployeeCount { get; set; }
+        public Manager(string name, string lastName, int age,int employeeCount) : base(name, lastName, age)
+        {
+            EmployeeCount = employeeCount;
+        }
+
+        public void DisplayManager() {
+            DisplayInfo();
+            Console.WriteLine($"Employee Workers Count:{EmployeeCount}");
+        }
+    }
 }
